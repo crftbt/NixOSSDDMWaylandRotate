@@ -26,4 +26,4 @@ Steps and Configuration to rotate the SDDM Display with Wayland through Weston o
   name=DSI-1
   transform=rotate-270
   ```
-Ideally a services.weston.config or something similar to modify the existing weston.ini would remove the need for a rw copy of the weston.ini.
+Ideally a programs.weston.config or something similar to modify the existing weston.ini would remove the need for a rw copy of the weston.ini.
